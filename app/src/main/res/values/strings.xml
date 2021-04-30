@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Discrete Math lab2</string>
+    <string name="set_default_values_btn">Set default values</string>
+    <string name="enter_count_of_links_et">Enter count of links</string>
+    <string name="enter_vertexes_et">Enter vertexes</string>
+    <string name="link_tv"><![CDATA[->]]></string>
+    <string name="ok_btn">OK</string>
 </resources>
